@@ -1,6 +1,6 @@
 # hosts_scan
 带有host碰撞的c段扫描工具；对域名文件进行cdn验证并一键爬取未含cdn的c段主机；
-
+扫描结果将保存为csv文件，内涵发现存活的url, status_code, title, copy_right, icp, keyword, r_headers等信息；
 
 ## usage:
 ```
