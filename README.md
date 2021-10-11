@@ -20,3 +20,5 @@ optional arguments:
   -c COOKIE
 ```
 
+## 报告文件
+![image](example.png)
